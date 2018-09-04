@@ -1,3 +1,7 @@
+This app was deployed using Google's Firebase and can be found here: https://lyrically-803e5.firebaseapp.com. It was built using Brad Traversy's demonstration of the https://playground.musixmatch.com/ API. It has been styled with font-awesome and Bootstrap and the state was managed using React's Context API (https://reactjs.org/docs/context.html). This project is still a WIP, with future plans to implement further search functionality, in addition to features for the user to be able to login and save favorite songs, artists and albums. As updates are made this section will reflect that.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
