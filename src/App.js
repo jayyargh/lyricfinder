@@ -7,7 +7,7 @@ import Lyrics from './Components/tracks/Lyrics';
 
 import { Provider } from './context';
 
-import './App.css';
+// import './App.css';
 
 class App extends Component {
   render() {
